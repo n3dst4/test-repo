@@ -1,0 +1,23 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/n3dst4/test-repo#readme",
+  "bugs": {
+    "url": "https://github.com/n3dst4/test-repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3dst4/test-repo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}
