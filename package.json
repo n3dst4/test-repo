@@ -15,10 +15,11 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "echo \"Preparing package...\""
+    "test": "echo \"No tests!\"",
+    "prepare": "husky"
   },
   "dependencies": {
+    "husky": "^9.1.7",
     "intl-messageformat-parser": "1.1.0",
     "intl-relativeformat": "1.1.0"
   },
